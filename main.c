@@ -2,6 +2,7 @@
 
 int main(void) {
     printf("First commit to GitHub");
+    printf("QQQ");
 
-    return
+    return 0;
 }
